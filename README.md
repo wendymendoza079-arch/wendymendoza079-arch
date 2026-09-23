@@ -3,6 +3,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/@wendymendoza619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wendymendoza619" alto="30" ancho="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
